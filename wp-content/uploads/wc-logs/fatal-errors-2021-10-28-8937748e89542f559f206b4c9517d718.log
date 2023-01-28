@@ -1,0 +1,36 @@
+2021-10-28T06:58:46+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\page-blank.php(5): get_header()
+#4 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\header.php on line 2
+
+2021-10-28T06:59:21+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\page-blank.php(5): get_header()
+#4 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\header.php on line 2
+
+2021-10-28T07:00:14+00:00 CRITICAL Uncaught Error: Call to undefined function flatsome_html_classes() in C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\single.php(8): get_header()
+#4 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wp-th\wp-food custom\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wp-th\wp-food custom\wordpress\wp-content\themes\flatsome - child\header.php on line 2
+
